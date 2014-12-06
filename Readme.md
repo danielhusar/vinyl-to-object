@@ -11,7 +11,7 @@ npm install --save-dev vinyl-to-object
 
 ## Example
 
-```
+```javascript
 var File = require('vinyl');
 var copy = require('vinyl-to-object');
 
