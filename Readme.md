@@ -20,7 +20,7 @@ var file = new File({
     base: 'test',
     path: '/test/test.txt',
     contents: new Buffer('unicorn')
-  });
+});
 
 var duplicatedFile = copy(file);
 ```
