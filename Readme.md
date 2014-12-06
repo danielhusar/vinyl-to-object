@@ -1,4 +1,4 @@
-# vinyl-to-object
+# vinyl-to-object [![Build Status](https://secure.travis-ci.org/danielhusar/vinyl-to-object.svg?branch=master)](http://travis-ci.org/danielhusar/vinyl-to-object)
 
 Store virtual file format as regular object
 
