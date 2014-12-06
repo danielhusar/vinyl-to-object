@@ -1,0 +1,33 @@
+{
+  "name": "vinyl-to-object",
+  "version": "0.0.0",
+  "description": "Store virtual file format as regular object",
+  "keywords": [
+    "vinyl",
+    "file",
+    "object",
+    "copy"
+  ],
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "author": {
+    "name": "Daniel Husár",
+    "email": "dano.husar@gmail.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielhusar/vinyl-to-object"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.19.0",
+    "vinyl": "^0.4.3"
+  },
+  "readmeFilename": "Readme.md"
+}
