@@ -31,7 +31,7 @@ var duplicatedFile = copy(file);
 
 Type: `vinyl file`
 
-Vinyl file to convert to regular object
+Vinyl file to convert
 
 ## License
 
