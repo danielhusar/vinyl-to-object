@@ -6,7 +6,7 @@ Store virtual file format as regular object
 ## Install
 
 ```
-npm install --save-dev vinyl-to-object
+npm install --save vinyl-to-object
 ```
 
 ## Example
