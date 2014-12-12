@@ -16,6 +16,7 @@ it('I should create regular object from vinyl file', function () {
 
   assert.equal(duplicatedFile.cwd, 'test');
   assert.equal(duplicatedFile.base, 'test');
+  assert.equal(duplicatedFile.path, '/test/test.txt');
   assert.equal(duplicatedFile.contents.toString(), 'unicorn');
 
   file.contents = new Buffer('two unicorns');
