@@ -8,6 +8,7 @@ module.exports = function (file) {
 
   tempFile.contents = file.contents;
   tempFile.path = file.path;
+  tempFile.relative = file.relative;
 
   return tempFile;
 };
